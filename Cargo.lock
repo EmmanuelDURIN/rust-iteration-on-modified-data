@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "hello_dga"
+name = "iterator_with_modification"
 version = "0.1.0"
